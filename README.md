@@ -21,3 +21,9 @@ A medida que continúo mi viaje en el desarrollo Full Stack, siempre estoy busca
 
 - Dancing
 - Watch movies
+
+## Languages
+
+- English
+- Spanish
+- Portuguese
