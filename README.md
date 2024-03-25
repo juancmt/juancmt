@@ -12,3 +12,8 @@ A medida que continúo mi viaje en el desarrollo Full Stack, siempre estoy busca
 
 - Back-End: Competente en Java, aporto un sólido conocimiento del desarrollo del lado del servidor...
 - Front-End: Mi experiencia en Angular me permite crear interfaces interactivas y fáciles de usar...
+
+## Hobbies
+
+- Dancing
+- Watch movies
